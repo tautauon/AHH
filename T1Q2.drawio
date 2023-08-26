@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T15:32:57.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="c-GDqL2DUdoVm0H8XEv-" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T15:33:23.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="rOJKs0K4U15-eB8O-jU2" version="21.6.9" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1279" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="UFD2ebjEW48Xa4xOQjo3-73" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="UFD2ebjEW48Xa4xOQjo3-65">
           <mxGeometry x="105" y="950" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UFD2ebjEW48Xa4xOQjo3-88" value="provide the neccessary information to the clerk" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="UFD2ebjEW48Xa4xOQjo3-65">
+          <mxGeometry x="25" y="390" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UFD2ebjEW48Xa4xOQjo3-41" value="bid for the order" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="970" y="420" width="200" height="30" as="geometry" />
