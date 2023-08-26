@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T15:34:34.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="7GzbqCVsIAGbBFGO89Qk" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T15:36:54.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="X2uIOAAN554ZXrI8HO6J" version="21.6.9" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1279" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="UFD2ebjEW48Xa4xOQjo3-81" value="display the basic &lt;br&gt;insurance policy by the policy number" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="UFD2ebjEW48Xa4xOQjo3-40">
           <mxGeometry x="20" y="290" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UFD2ebjEW48Xa4xOQjo3-90" value="validate the given data and return result to the clerk" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="UFD2ebjEW48Xa4xOQjo3-40">
+          <mxGeometry x="20" y="500" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UFD2ebjEW48Xa4xOQjo3-47" value="Clerk" style="swimlane;html=1;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UFD2ebjEW48Xa4xOQjo3-39">
           <mxGeometry x="240" y="20" width="320" height="1030" as="geometry" />
